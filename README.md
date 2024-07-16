@@ -1,5 +1,7 @@
 # README
 
+Docker environment to run MLFlow on a server and then access locally
+
 Dashboard location: http://localhost:8888
 Command to run: `docker compose up -d --build`
 
